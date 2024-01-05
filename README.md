@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">✨ Experimenting with data since my data science journey began.<br>📚 Currently diving deep into machine learning algorithms and advanced statistical methods.<br>🎯 Goals: Mastering the art of predictive modeling and contributing to impactful data-driven solutions.<br>🎲 Fun fact: I enjoy uncovering hidden patterns in data almost as much as solving coding puzzles!</p>
+<p align="left">
+  🚀 Crafting actionable insights from raw data with precision.<br>
+  🔍 Unearthing data stories that captivate and drive impact.<br>
+  💡 Data scientist on a mission - bugs are just stepping stones to brilliance.<br>
+  📊 Decoding patterns, sculpting the future with data's language.<br>
+  🎩 Juggling algorithms, sipping coffee, creating magic with data.<br>
+  🔑 Unlocking data secrets, one line of code at a time.
+</p>
 
 ###
 
