@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Ravi Pandey, a data science student passionate about exploring the world of data and analytics.</p>
+<p align="left">**I'm Ravi Pandey, a data science student passionate about exploring the world of data and analytics.**</p>
 
 ###
 
