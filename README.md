@@ -12,3 +12,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - SQL
 - Data Analysis
 - Machine Learning
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravipandey2/)](https://www.linkedin.com/in/ravipandey2/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ravipandey2552/)](https://www.instagram.com/ravipandey2552/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravipandey4568@gmail.com)](mailto:ravipandey4568@gmail.com)
